@@ -1,9 +1,9 @@
 # Geographic-Resources
 ## Geodata manipulation and visualization
 
-Display all render data:
-- [OSM_API](https://nbviewer.jupyter.org/github/morkertis/Geographic-Resources/blob/master/OSM_API.ipynb)
-- [geo_analyze](https://nbviewer.jupyter.org/github/morkertis/Geographic-Resources/blob/master/geo_analyze.ipynb)
+Display Jupyter Notebook include dynamic map:
+- [OSM_API](https://nbviewer.jupyter.org/github/morkertis/Geographic-Resources/blob/master/OSM_API.ipynb) - Download geographic object
+- [geo_analyze](https://nbviewer.jupyter.org/github/morkertis/Geographic-Resources/blob/master/geo_analyze.ipynb?flush_cache=true) - Analyze geographic data using Shapely and Geopandas using shape files and json.
 
 ### This repository include:
 - [Open street map](https://nominatim.org/release-docs/develop/) for download geographic objects
