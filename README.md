@@ -1,4 +1,4 @@
-# Geographic-Resources
+# Geographic-Tools
 ## Geodata manipulation and visualization
 
 Display Jupyter Notebook include dynamic map:
