@@ -4,6 +4,7 @@
 Display Jupyter Notebook include dynamic map:
 - [OSM_API](https://nbviewer.jupyter.org/github/morkertis/Geographic-Resources/blob/master/OSM_API.ipynb) - Download geographic object using open street map API.
 - [geo_analyze](https://nbviewer.jupyter.org/github/morkertis/Geographic-Resources/blob/master/geo_analyze.ipynb?flush_cache=true) - Analyze geographic data using Shapely and Geopandas using shape files and json.
+- [geo_folium](https://nbviewer.jupyter.org/github/morkertis/Geographic-Tools/blob/master/geo_folium.ipynb?flush_cache=true) - Display using geographic tools, mostly folium.In addition, a quick calculation of distance between coordinates.
 
 ### This repository include:
 - [Open street map](https://nominatim.org/release-docs/develop/) for download geographic objects
