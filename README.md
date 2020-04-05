@@ -2,7 +2,7 @@
 ## Geodata manipulation and visualization
 
 Display Jupyter Notebook in https://nbviewer.jupyter.org/ for better render map:
-- [OSM_API](https://nbviewer.jupyter.org/github/morkertis/Geographic-Resources/blob/master/OSM_API.ipynb) - Download geographic object using open street map API.
+- [OSM_API](https://nbviewer.jupyter.org/github/morkertis/Geographic-Resources/blob/master/OSM_API.ipynb) - Download geographic objects using open street map API.
 - [geo_analyze](https://nbviewer.jupyter.org/github/morkertis/Geographic-Resources/blob/master/geo_analyze.ipynb?flush_cache=true) - Analyze geographic data using Shapely and Geopandas.
 - [geo_folium](https://nbviewer.jupyter.org/github/morkertis/Geographic-Tools/blob/master/geo_folium.ipynb?flush_cache=true) - Geographical information visualization using geographic tools, mostly folium. In addition, a quick calculation of distance between coordinates.
 
